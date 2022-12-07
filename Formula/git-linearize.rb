@@ -1,10 +1,10 @@
 class GitLinearize < Formula
   desc "Git Linearize"
   homepage "https://github.com/zegl/extremely-linear"
-  version "45.0.0"
+  version "51.0.0"
 
-  url "https://github.com/zegl/extremely-linear/archive/00000450e02803fcfcc85083eb9c90b74fbf3a8a.tar.gz"
-  sha256 "c2b0c6b42af09f237f5ec5ae3d7be3e310d3b81873469b2c64f6d3562f45d7c5"
+  url "https://github.com/zegl/extremely-linear/archive/000005106b8815b78a69b90a63cee63600943f34.tar.gz"
+  sha256 "44a66bc91fb3d931e6247487b67342fda0b43a4fdcb625e9fd2cfa2ad5fc26dd"
 
   depends_on "lucky-commit"
 
