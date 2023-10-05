@@ -1,10 +1,10 @@
 class GitShit < Formula
   desc "Git Linearize - Short Git Wrapper"
   homepage "https://github.com/zegl/extremely-linear"
-  version "56.0.0"
+  version "59.0.0"
 
-  url "https://github.com/zegl/extremely-linear/archive/000005608b5c9f61a08e60c270893ff0c44ff431.tar.gz"
-  sha256 "cb62b5aa996047ad348d9fd8a7bf2563fd4b9b08545401edd836919970f2872b"
+  url "https://github.com/zegl/extremely-linear/archive/00000590999077c2cf0e3df21a15122bf5c59ec8.tar.gz"
+  sha256 "5edcf99882bbe1b4cef4507f32dec8a64f93be299b3c8101dc088034c1a39903"
 
   def install
     bin.install "shit"
